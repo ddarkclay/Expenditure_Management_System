@@ -1,20 +1,2 @@
-Time is  : 2019-05-20 16:49:40.985767
-Total Money Paid : 140 RS
-	vaibhav 	60
-	ashutosh 	100
-	darshit 	0
-Remaining Money after Paying :20 RS
-
->>>vaibhav Gives 60 RS
-Total Expenditure is : 46 RS Then
-vaibhav will Take 14 RS
-
->>>ashutosh Gives 100 RS
-Total Expenditure is : 46 RS Then
-ashutosh will Take 54 RS
-
->>>darshit Gives 0 RS
-Total Expenditure is : 46 RS Then
-darshit will Give 46 RS
 
 
